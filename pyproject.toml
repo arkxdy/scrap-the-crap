@@ -1,0 +1,6 @@
+[project]
+name = "scrap-the-crap"
+version = "0.1.0"
+description = "Universal content ingestion platform"
+requires-python = ">=3.12"
+dependencies = []
